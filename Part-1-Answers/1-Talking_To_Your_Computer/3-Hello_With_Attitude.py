@@ -5,7 +5,7 @@
 #	adding 2 strings together. 
 
 name = input("What is your name? ")
-print("So you call yourself" + " " + name + " " + "huh?")
+print("So you call yourself" + ' ' + name + ' ' + "huh?")
 
 #What is happening here?
 #	In this example, same as last time, the output of the function "input()" is being assigned
